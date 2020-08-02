@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Zalo Group**
 
-- 📝 I regulary write articles on [motmaytinh.github.io](motmaytinh.github.io)
+- 📝 I regulary write articles on [motmaytinh.github.io](https://motmaytinh.github.io)
 
 - 📫 How to reach me **motmaytinh@gmail.com**
 
