@@ -18,5 +18,5 @@
 <a href="https://linkedin.com/in/quytn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="quytn" height="20" width="20" /></a>
 <a href="https://fb.com/motmaytinh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="motmaytinh" height="20" width="20" /></a>
 <a href="https://instagram.com/motmaytinh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="motmaytinh" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/motmaytinh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="motmaytinh" height="20" width="20" /></a>
+<a href="https://www.youtube.com/user/motmaytinh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="motmaytinh" height="20" width="20" /></a>
 </p>
