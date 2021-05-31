@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motmaytinh&label=Profile%20views&color=0e75b6&style=flat" alt="motmaytinh" /> </p>
 
-- 📝 I regularly write articles on [http://motmaytinh.github.io/](http://motmaytinh.github.io/)
+- 📝 I occasionally write articles on [http://motmaytinh.github.io/](http://motmaytinh.github.io/)
 
 - 📫 How to reach me **motmaytinh@gmail.com**
 
