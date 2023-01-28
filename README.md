@@ -12,7 +12,7 @@ Thanks and I hope you have a nice day. See yah!
 
 
 My skills:  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,bash,css,html,docker,firebase,heroku,github,gitlab,linux,raspberrypi,idea,vscode,androidstudio,flask,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,bash,css,html,docker,firebase,heroku,github,gitlab,linux,raspberrypi,idea,vscode,androidstudio,flask,spring,maven,svelte)](https://skillicons.dev)
 
 Website: [motmaytinh.github.io](http://motmaytinh.github.io/)  
 LinkedIn: [@quytn](https://linkedin.com/in/quytn)  
